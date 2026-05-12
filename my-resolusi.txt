@@ -1,6 +1,6 @@
 MY RESOLUSI:
-- Membuat Aplikasi SPK
 - Membuat Web GoEat
 - Membuat Web Store HP
 - Belajar Git & Github
 - Belajar UI/UX
+- Belajar Data Analyst
