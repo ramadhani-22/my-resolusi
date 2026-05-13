@@ -3,4 +3,6 @@ MY RESOLUSI:
 - Membuat Web Store HP
 - Belajar Git & Github
 - Belajar UI/UX
+  * Figma
 - Belajar Data Analyst
+  * Python
