@@ -1,8 +1,9 @@
 MY RESOLUSI:
+- Membuat Web GoEat
 - Membuat Web Store HP
 - Belajar Git & Github
 - Belajar UI/UX
-  * Sketch
+  * Figma
   * Framer
 - Belajar Data Analyst
   * Python
