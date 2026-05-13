@@ -4,5 +4,6 @@ MY RESOLUSI:
 - Belajar Git & Github
 - Belajar UI/UX
   * Figma
+  * Framer
 - Belajar Data Analyst
   * Python
